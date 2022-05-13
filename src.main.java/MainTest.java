@@ -16,10 +16,10 @@ p1.age=1555;
 		p2.name="nsdg";
 		p2.age=104;
 		Person p3 = new Person();
-		p1.name="med";
+		p1.name="ayur";
 		p1.age=55;
 		Person p4 = new Person();
-		p2.name="nsdg";
+		p2.name="siman";
 		p2.age=103;
 
 		List<Person> persones = new ArrayList<Person>();
